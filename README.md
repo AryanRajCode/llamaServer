@@ -1,6 +1,9 @@
 Llama Server
 Welcome to the Llama Server repository! This project is a high-performance, scalable server framework designed for building robust applications with ease. Inspired by the simplicity and resilience of llamas, Llama Server aims to provide developers with a solid foundation for their server-side applications.
 
+https://raw.githubusercontent.com/AryanRajCode/llamaserver/main/Screenshot.png
+
+
 Features
 High Performance: Built with efficiency in mind, Llama Server leverages the latest technologies to ensure fast and reliable performance.
 Scalability: Designed to handle growth, Llama Server can scale horizontally to manage increasing loads seamlessly.
@@ -15,10 +18,15 @@ python-pip
 
 
 Installation
+
+
 Clone the repository:
+
 sh
 Copy code
+
 git clone https://github.com/AryanRajCode/llamaserver
+
 Navigate to the project directory:
 sh
 Copy code
@@ -26,10 +34,12 @@ cd llama-server
 Install the dependencies:
 
 git clone https://github.com/AryanRajCode/llamaserver
+
 pip install -r requirements.txt
 python3 server.py
 then new terminal
 python3 clientweb.py
+
 then open browerser open = http://127.0.0.1:5000
 
 
