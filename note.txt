@@ -1,0 +1,2 @@
+you need to ollama on server 
+and install requirements.txt
