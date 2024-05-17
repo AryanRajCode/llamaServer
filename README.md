@@ -1,7 +1,7 @@
 Llama Server
 Welcome to the Llama Server repository! This project is a high-performance, scalable server framework designed for building robust applications with ease. Inspired by the simplicity and resilience of llamas, Llama Server aims to provide developers with a solid foundation for their server-side applications.
 
-https://raw.githubusercontent.com/AryanRajCode/llamaserver/main/Screenshot.png
+
 
 
 Features
